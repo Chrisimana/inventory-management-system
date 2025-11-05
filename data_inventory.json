@@ -1,0 +1,14 @@
+{
+    "barang": [
+        {
+            "id": 1,
+            "nama": "Sabun",
+            "harga": 5000.0,
+            "kategori": "Umum",
+            "stok": 10,
+            "created_at": "2025-11-06 06:44:44",
+            "updated_at": "2025-11-06 06:44:44"
+        }
+    ],
+    "next_id": 2
+}
