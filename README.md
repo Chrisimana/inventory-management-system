@@ -170,20 +170,6 @@ python main.py
 
 ## 📚 Dokumentasi Teknis
 
-### Data Flow
-
-```mermaid
-graph TD
-    A[User Input] --> B[Form Validation]
-    B --> C[Data Processing]
-    C --> D{Operation Type}
-    D --> E[Create/Update/Delete]
-    E --> F[Database Handler]
-    F --> G[JSON Storage]
-    G --> H[UI Update]
-    H --> I[Real-time Display]
-```
-
 ### File Descriptions
 
 | File | Description |

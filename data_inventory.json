@@ -8,7 +8,16 @@
             "stok": 10,
             "created_at": "2025-11-06 06:44:44",
             "updated_at": "2025-11-06 06:44:44"
+        },
+        {
+            "id": 2,
+            "nama": "Sikat gigi",
+            "harga": 3000.0,
+            "kategori": "Umum",
+            "stok": 10,
+            "created_at": "2025-11-23 09:24:16",
+            "updated_at": "2025-11-23 09:24:16"
         }
     ],
-    "next_id": 2
+    "next_id": 3
 }
